@@ -1,4 +1,4 @@
-## **FTT_PRINTF**
+## **FT_PRINTF**
 
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/Arcane-Jill/images/blob/main/ft_printfm.png">
